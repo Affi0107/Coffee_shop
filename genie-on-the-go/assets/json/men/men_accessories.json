@@ -1,0 +1,67 @@
+[
+      {
+        "id": 1,
+        "name": "Classic Leather Belt",
+        "brand": "Gentleman's Choice",
+        "description": "A timeless leather belt to complement your stylish shoes.",
+        "rating": "4.7",
+        "totalRatings": "90",
+        "image": "mens_belt",
+        "price": 4.99,
+        "discount": "10",
+        "offerPrice": 4.41,
+        "category": "men_accessories"
+      },
+      {
+        "id": 2,
+        "name": "Executive Leather Wallet",
+        "brand": "EleganceCraft",
+        "description": "Luxurious leather wallet with multiple compartments and sleek design.",
+        "rating": "4.5",
+        "totalRatings": "120",
+        "image": "wallet",
+        "price": 6.99,
+        "discount": "15",
+        "offerPrice": 5.94,
+        "category": "men_accessories"
+      },
+      {
+        "id": 3,
+        "name": "Sporty Sunglasses",
+        "brand": "ActiveStyle",
+        "description": "Polarized sunglasses for a trendy and sporty look.",
+        "rating": "4.8",
+        "totalRatings": "150",
+        "image": "sunglass",
+        "price": 3.99,
+        "discount": "5",
+        "offerPrice": 3.79,
+        "category": "men_accessories"
+      },
+      {
+        "id": 4,
+        "name": "Casual Canvas Backpack",
+        "brand": "UrbanExplorer",
+        "description": "Stylish and spacious backpack for your everyday adventures.",
+        "rating": "4.6",
+        "totalRatings": "110",
+        "image": "backpack",
+        "price": 5.99,
+        "discount": "20",
+        "offerPrice": 4.79,
+        "category": "men_accessories"
+      },
+      {
+        "id": 5,
+        "name": "Formal Tie Set",
+        "brand": "SophisticatedTies",
+        "description": "Elegant tie and pocket square set to complete your formal attire.",
+        "rating": "4.9",
+        "totalRatings": "130",
+        "image": "tie",
+        "price": 3.99,
+        "discount": "8",
+        "offerPrice": 3.67,
+        "category": "men_accessories"
+      }
+]

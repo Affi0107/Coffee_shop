@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "AIR JORDAN SILVER SHOES",
+        "brand":"Nike",
+        "description": "Timeless and comfortable loafers for a casual yet refined look.",
+        "rating": "4.0",
+        "totalRatings": "90",
+        "image": "AIR JORDAN SILVER SHOES",
+        "price": 250.0,
+        "discount": "15",
+        "offerPrice": 212.5,
+        "category": "Shoe"
+    },
+    {
+        "id": 2,
+        "name": "TESTONI SHOES",
+        "brand":"Testoni",
+        "description": "Versatile athletic shoes designed for intensive training sessions.",
+        "rating": "4.6",
+        "totalRatings": "120",
+        "image": "TESTONI SHOES",
+        "price": 120.0,
+        "discount": "10",
+        "offerPrice": 191.5,
+        "category": "Shoe"
+    },
+    {
+        "id": 3,
+        "name": "NIKE AIR MAG 2016",
+        "brand":"Nike",
+        "description": "Stylish and durable leather Chelsea boots for a sophisticated look.",
+        "rating": "4.8",
+        "totalRatings": "150",
+        "image": "NIKE AIR MAG 2016",
+        "price": 100.0,
+        "discount": "20",
+        "offerPrice": 80.0,
+        "category": "Shoe"
+    },
+    {
+        "id": 4,
+        "name": "LV MANHATTAN RICHELIEU",
+        "brand":"Louis",
+        "description": "Comfortable sneakers suitable for everyday casual wear.",
+        "rating": "3.8",
+        "totalRatings": "110",
+        "image": "LOUIS VUITTON MANHATTAN RICHELIEU MENS SHOES",
+        "price": 300.0,
+        "discount": "12",
+        "offerPrice": 240.0,
+        "category": "Shoe"
+    },
+    {
+        "id": 5,
+        "name": "KANYE WEST NIKE AIR YEEZY",
+        "brand":"Nike",
+        "description": "Durable trail running shoes for outdoor adventures and off-road runs.",
+        "rating": "4.1",
+        "totalRatings": "130",
+        "image": "KANYE WEST NIKE AIR YEEZY",
+        "price": 300.0,
+        "discount": "10",
+        "offerPrice": 270.0,
+        "category": "Shoe"
+    },
+    {
+        "id": 6,
+        "name": "MOLECULE",
+        "brand":"Judith Leiber",
+        "description": "Elegant classic derby shoes suitable for formal occasions.",
+        "rating": "3.8",
+        "totalRatings": "100",
+        "image": "MOLECULE SHOE",
+        "price": 200.0,
+        "discount": "10",
+        "offerPrice": 180.0,
+        "category": "Shoe"
+    }
+]

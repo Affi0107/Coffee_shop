@@ -1,0 +1,25 @@
+{
+    "123456789012": {
+      "name": "Shyam Mishra",
+      "address1": "145 Main Street",
+      "address2": "Newtown",
+      "pin_code": "828108",
+      "mobile_number": "9876543210",
+      "email_id": "shyam45@gmail.com",
+      "city": "Kolkata",
+      "state":"West Bengal",
+      "country":"India"
+    },
+    "987654321098": {
+      "name": "Jane Smith",
+      "address1": "456 Oak Avenue",
+      "address2": "Suite 789",
+      "pin_code": "67890",
+      "mobile_number": "8765432109",
+      "email_id": "jane.smith@example.com",
+      "city": "Townsville",
+      "state":"Ontario",
+      "country":"Canada"
+    }
+    
+  }

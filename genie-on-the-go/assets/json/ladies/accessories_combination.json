@@ -1,0 +1,81 @@
+
+[
+    {
+      "id": 1,
+      "name": "Velvet Red Lipstick",
+      "brand": "Glamour Beauty",
+      "description": "Intense and long-lasting red lipstick for a bold look.",
+      "rating": "4.7",
+      "totalRatings": "450",
+      "image": "lipstick",
+      "price": 1.99,
+      "discount": "15",
+      "offerPrice": 1.69,
+      "category": "ladies_accessories"
+    },
+    {
+      "id": 2,
+      "name": "Silk Scarf",
+      "brand": "Elegance Couture",
+      "description": "Luxurious silk scarf with intricate floral patterns.",
+      "rating": "4.5",
+      "totalRatings": "380",
+      "image": "scarf",
+      "price": 2.99,
+      "discount": "10",
+      "offerPrice": 2.69,
+      "category": "ladies_accessories"
+    },
+    {
+      "id": 3,
+      "name": "Radiance Compact Powder",
+      "brand": "Chic Cosmetics",
+      "description": "Compact powder for a flawless finish and radiant complexion.",
+      "rating": "4.8",
+      "totalRatings": "48",
+      "image": "powder",
+      "price": 4.99,
+      "discount": "20",
+      "offerPrice": 3.99,
+      "category": "ladies_accessories"
+    },
+     {
+        "id": 4,
+        "name": "Classic Leather Belt",
+        "brand": "Gentleman's Choice",
+        "description": "A timeless leather belt to complement your stylish shoes.",
+        "rating": "4.7",
+        "totalRatings": "90",
+        "image": "mens_belt",
+        "price": 4.99,
+        "discount": "10",
+        "offerPrice": 4.41,
+        "category": "men_accessories"
+      },
+      {
+        "id": 5,
+        "name": "Executive Leather Wallet",
+        "brand": "EleganceCraft",
+        "description": "Luxurious leather wallet with multiple compartments and sleek design.",
+        "rating": "4.5",
+        "totalRatings": "120",
+        "image": "wallet",
+        "price": 6.99,
+        "discount": "15",
+        "offerPrice": 5.94,
+        "category": "men_accessories"
+      },
+      {
+        "id": 6,
+        "name": "Sporty Sunglasses",
+        "brand": "ActiveStyle",
+        "description": "Polarized sunglasses for a trendy and sporty look.",
+        "rating": "4.8",
+        "totalRatings": "150",
+        "image": "sunglass",
+        "price": 3.99,
+        "discount": "5",
+        "offerPrice": 3.79,
+        "category": "men_accessories"
+      }
+  ]

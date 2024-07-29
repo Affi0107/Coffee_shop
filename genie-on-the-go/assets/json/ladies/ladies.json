@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "GEMMA FULLBEAD",
+        "brand":"Judith Leiber",
+        "description": " Soft and sparkling, our gathered evening clutch dazzles in smoked topaz crystals. A removable chain strap in a mix of crystals adds to the drama and makes it a must-have in your formal handbag collection",
+        "rating": "4.0",
+        "totalRatings": "450",
+        "image": "GEMMA FULLBEAD CHOCOLATE",
+        "price": 295.0,
+        "discount":"20",
+        "offerPrice": 236.0,
+        "category": "ladies"
+    },
+    {
+        "id": 2,
+        "name": "PIPER BUCKET BLACK",
+        "brand":"Judith Leiber",
+        "description": "Sophisticated versatility in one, crystal package. This drawstring bucket handbag is adorned with a crystal ornament and a deco detailed crystal and silk tassel engraved with the signature Judith Leiber logo.  Featuring a baguette crystal top handle and shoulder chain, this roomy bag sets the mood for any style.",
+        "rating": "4.5",
+        "totalRatings": "380",
+        "image": "PIPER BUCKET BLACK",
+        "price": 250.0,
+        "discount":"15",
+        "offerPrice": 212.5,
+        "category": "ladies"      
+    },
+    {
+        "id": 3,
+        "name": "HERMES KELLY",
+        "brand":"MAISON deLUX",
+        "description": "Prepare for a ravishing rendezvous of glamour with our red Hot Lips crystal clutch. The vibrant shades of red are like a crimson crush or crystals that leaves an indelible mark. These luscious lips with their dazzling handset crystal pattern is a sensational party piece that's as fiery as it is fabulous.",
+        "rating": "4.8",
+        "totalRatings": "48",
+        "image": "HERMES MINI KELLY II",
+        "price": 300.0,
+        "discount":"20",
+        "offerPrice": 240.0,
+        "category": "ladies"
+        
+    },
+    {
+        "id": 4,
+        "name": "UFO ORBITER",
+        "brand":"Judith Leiber",
+        "description": "This bag is ready for all of your evening voyages. Our UFO spaceship-inspired domed evening clutch stuns in jet and indigo smooth crystal with bold star-shaped, baguette and geometric crystal details. Destined to turn heads in any orbit.",
+        "rating": "4.3",
+        "totalRatings": "340",
+        "image": "UFO ORBITER",
+        "price": 300.0,
+        "discount":"25",
+        "offerPrice": 225.0,
+        "category": "ladies"
+    },
+    {
+        "id": 5,
+        "name": "TRAVELER NAVY",
+        "brand":"Judith Leiber",
+        "description": "Elevate your travel essentials with our Traveler passport cover. A luxurious mix of style and practicality and designed to accompany you on your globetrotting adventures, this sleek accessory shimmers with a sea of deep blue crystals that evoke starlit skies. Crafted for the fashion-forward traveler, ensuring your passport remains a statement piece as you jet set around the world.",
+        "rating": "4.2",
+        "totalRatings": "170",
+        "image": "TRAVELER NAVY",
+        "price":495.0,
+        "discount":"18",
+        "offerPrice": 405.9,
+        "category": "ladies"
+    },
+    {
+        "id": 6,
+        "name": "PARADA ARQUE LEATHER  BAG",
+        "brand":"Parada",
+        "description": "This sleek leather bag has a versatile, modernist allure. The accessory with a sinuous silhouette is completed by the leather extension and detachable shoulder strap for wearing different ways. The bag with nappa leather interior and metal hardware is embellished with the enameled metal triangle logo on the front.",
+        "rating": "4.0",
+        "totalRatings": "240",
+        "image": "PARADA ARQUE LEATHER SHOULDER BAG",
+        "price": 290.0,
+        "discount":"30",
+        "offerPrice": 203.0,
+        "category": "ladies"
+    },
+
+  {
+        "id": 7,
+        "name": "TRIANGULAR PATENT POUCH",
+        "brand":"Parada",
+        "description": "The triangle, an iconic hallmark of Prada collections, comes in a three-dimensional version in the shape of this patent leather mini pouch. The accessory with metal hardware synthesizes the brand's stylistic codes in an elegant and versatile design with removable shoulder strap and chain handle. The enameled metal triangle logo completes the look with a distinctive note.",
+        "rating": "4.7",
+        "totalRatings": "247",
+        "image": "TRIANGULAR PATENT LEATHER MINI POUCH",
+        "price": 360.0,
+        "discount":"40",
+        "offerPrice": 216.0,
+        "category": "ladies"
+    }
+
+
+    
+]
